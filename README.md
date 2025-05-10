@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @kikehr, Enrique Herrera
-- 👀 I’m interested in football,science dates, ia, animals and stay in peace with the world ...
-- 🌱 I’m currently learning data science in malaga, a boot camp that have python, mysql, powerbi, ia, etc...
-- 💞️ I’m looking to collaborate on all that i can to learn, im new in this interesting world...
-- 📫 How to reach me , here at the moment, i begin in january/2024 ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: music, games, football, im supporter of malaga cf, i like politic staffs and i try to colaborate with social movements in malaga, my city...
+👋 Hi, I'm Enrique Herrera
+🚀 About Me
+🔎 Passionate about football, data science, and artificial intelligence. 📍 Currently learning Data Science at a Bootcamp in Málaga, focusing on Python, MySQL, Power BI, and AI. 🤝 Eager to collaborate on projects that help me grow and learn in this exciting tech world.
 
-<!---
-kikehr/kikehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Technologies & Tools
+💻 Languages: Python, SQL 📊 Tools: Power BI, Jupyter Notebook 🧠 Interests: Data Science, Artificial Intelligence, Machine Learning
+
+⚽ More About Me
+🎵 Music lover, gamer, and, of course, a football fan (supporter of Málaga CF). 📢 Interested in politics and actively involved in social movements in Málaga.
+📫 Let's Connect!
+📧 You can currently reach me here, but I'm expanding my online presence soon. Open to learning and collaborating!
